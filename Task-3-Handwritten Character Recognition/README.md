@@ -1,4 +1,4 @@
-## Task-3- Handwritten Character Recognition Using CNN
+## Task-3- Handwritten Character Recognition
 
 ## 1. Project Overview
 This project recognizes handwritten digits from 0 to 9 using a Convolutional Neural Network (CNN).
