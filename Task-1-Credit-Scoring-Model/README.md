@@ -1,4 +1,4 @@
-## Task-1-Credit Scoring Model
+## Tasks-1-Credit Scoring Model
 
 ## 1.Project Overview
 
@@ -46,6 +46,7 @@ ROC-AUC.
 
 ## 5.Project Structure
 
+```test
 CodeAlpha_CreditScoringModel/
 |
 |-- train.py
@@ -61,6 +62,8 @@ CodeAlpha_CreditScoringModel/
 |
 `-- models/
     `-- credit_scoring_model.joblib
+```
+
 
 ## 6.How to Run
 
@@ -98,5 +101,4 @@ demonstration purposes.
 CodeAlpha Machine Learning Internship
 
 Task 1 - Credit Scoring Model
-
 
